@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UniFind</string>
+
+    <!-- Navigation -->
+    <string name="nav_market">Market</string>
+    <string name="nav_lost_found">Trouvés</string>
+    <string name="nav_post">Publier</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Categories -->
+    <string name="category_all">Tout</string>
+    <string name="category_clothes">Vêtements</string>
+    <string name="category_books">Livres</string>
+    <string name="category_electronics">Électronique</string>
+    <string name="category_furniture">Meubles</string>
+    <string name="category_decor">Décoration</string>
+    <string name="category_sports">Sport</string>
+
+    <!-- Conditions -->
+    <string name="condition_new">Neuf</string>
+    <string name="condition_like_new">Comme neuf</string>
+    <string name="condition_good">Bon état</string>
+    <string name="condition_fair">État correct</string>
+
+    <!-- Status -->
+    <string name="status_lost">Perdu</string>
+    <string name="status_found">Trouvé</string>
+
+    <!-- Common -->
+    <string name="search_hint">Rechercher...</string>
+    <string name="price_dh">%1$s DH</string>
+    <string name="free">Gratuit</string>
+    <string name="contact_seller">Contacter Vendeur</string>
+    <string name="post_item">Publier l\'Article</string>
+</resources>

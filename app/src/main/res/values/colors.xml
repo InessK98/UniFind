@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UIR Colors -->
+    <color name="uir_blue">#1E3A8A</color>
+    <color name="uir_blue_light">#3B82F6</color>
+    <color name="uir_gold">#F59E0B</color>
+
+    <!-- Status Colors -->
+    <color name="lost_red">#EF4444</color>
+    <color name="found_green">#10B981</color>
+
+    <!-- UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_gray">#F5F5F5</color>
+    <color name="text_dark">#1A1A1A</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_light_gray">#999999</color>
+    <color name="border_gray">#E5E5E5</color>
+
+    <!-- Badge Colors -->
+    <color name="badge_new">#10B981</color>
+    <color name="badge_like_new">#3B82F6</color>
+    <color name="badge_good">#F59E0B</color>
+    <color name="badge_fair">#F97316</color>
+    <color name="badge_free">#8B5CF6</color>
+</resources>
